@@ -1,5 +1,6 @@
 RV = window.RV;
-RV.LogLady: function() {
+//here
+RV.LogLady = function() {
 	render: function(){
 		alert('render');
 	};
