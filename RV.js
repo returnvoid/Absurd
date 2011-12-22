@@ -1,4 +1,4 @@
 RV = window.RV;
-var RV = {
-	//here
-}
+RV.LogLady: function() {
+	return this;
+};
