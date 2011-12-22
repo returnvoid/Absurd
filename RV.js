@@ -1,4 +1,7 @@
 RV = window.RV;
 RV.LogLady: function() {
-	return this;
+	render: function(){
+		alert('render');
+	};
+	return RV;
 };
